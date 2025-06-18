@@ -55,7 +55,7 @@ button {
     justify-content: space-between;
 }
 
-#todo-list li.completed {
+.completed {
     text-decoration: line-through;
     color: #777;
 }
