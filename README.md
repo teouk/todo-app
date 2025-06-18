@@ -16,8 +16,5 @@ You can open the `index.html` file directly in your browser to run the app.
 - Tasks are listed below with ❌ to delete and clickable text to mark as done
 - All changes are saved locally using the browser's LocalStorage
 
-## Screenshots
-![threetaskstest](image.png)
-
 ## Author
 Teoman Pisenis
